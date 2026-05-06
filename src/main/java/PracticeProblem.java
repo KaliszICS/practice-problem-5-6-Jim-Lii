@@ -1,3 +1,10 @@
+/*
+File Name: Parallel arrays
+Author: Jim Li
+Date Created: May 6, 2026
+Date Last Modified: May 6, 2026
+ */
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
